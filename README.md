@@ -1,2 +1,3 @@
 # img-api
 A really simple PHP file API
+Should be cooler and have more resources, but we have no enough time...
